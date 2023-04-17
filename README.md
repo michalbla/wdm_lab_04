@@ -7,12 +7,9 @@ Notatnik: [04_preprocessing.ipynb](https://github.com/IS-UMK/wdm_23_lab_04/blob/
 
 ---
 
-## Zad. 4. TITLE
+## Zad. 4. Preprocesing
 
 
 Rozwiązanie w postaci notatnika Jupyter (``.ipynb``) lub skrypt w języku Python (``.py``) umieść w Moodle lub prześlij do repozytorium GitHub.
 
----
-## Materiały:
 
-* 
